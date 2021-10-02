@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AWS.. 
 - 🔭 I’m currently working on a few Java Projects..
 
-- [![Avani's GitHub stats](https://github-readme-stats.vercel.app/api?username=avani112&show_icons=true&theme=synthwave)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avani112&layout=compact&langs_count=4&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+- [Avani's GitHub stats](https://github-readme-stats.vercel.app/api?username=avani112&show_icons=true&theme=synthwave)
+- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avani112&layout=compact&langs_count=4&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
