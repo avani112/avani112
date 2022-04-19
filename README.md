@@ -1,7 +1,7 @@
 ### Hi there 👋
 **I Am Avani Gokhale**
-- 🌱 I’m currently learning AWS.. 
-- 🔭 I’m currently working on a few Java Projects..
+<!-- - 🌱 I’m currently learning AWS.. 
+- 🔭 I’m currently working on a few Java Projects.. -->
 
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=avani112&show_icons=true&theme=synthwave)](https://test-avani-2021.s3.ap-south-1.amazonaws.com/index.html )  
  
